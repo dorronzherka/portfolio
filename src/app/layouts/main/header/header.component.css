@@ -1,0 +1,24 @@
+.my-navbar {
+    background-color: #ffffff !important;
+}
+.my-brand {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 37px;
+    color: #000 !important;
+}
+
+.my-menu li a {
+    font-family: "Oswald";
+    color: #000 !important;
+}
+
+.my-menu li a:hover {
+    border-bottom: 1px solid #000;
+}
+
+.my-menu li.active a{
+    border-bottom: 1px solid #000;
+}
+.my-button {
+  color: #000; 
+}
